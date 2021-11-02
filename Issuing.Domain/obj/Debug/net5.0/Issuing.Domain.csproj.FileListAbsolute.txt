@@ -1,0 +1,11 @@
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\bin\Debug\net5.0\Issuing.Domain.deps.json
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\bin\Debug\net5.0\Issuing.Domain.dll
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\bin\Debug\net5.0\ref\Issuing.Domain.dll
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\bin\Debug\net5.0\Issuing.Domain.pdb
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.AssemblyInfoInputs.cache
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.AssemblyInfo.cs
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.dll
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\ref\Issuing.Domain.dll
+C:\Users\mehmet.ardin\source\repos\Ocean.Demo.Nhibernate\Issuing.Domain\obj\Debug\net5.0\Issuing.Domain.pdb
